@@ -5,6 +5,5 @@
 **/dataset/
 **/split_dataset/
 
-# Ignore checkpoints and system files
+# Ignore Jupyter checkpoints
 .ipynb_checkpoints/
-*.png
