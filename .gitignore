@@ -1,0 +1,10 @@
+# Ignore model files
+*.h5
+
+# Ignore dataset folders
+**/dataset/
+**/split_dataset/
+
+# Ignore checkpoints and system files
+.ipynb_checkpoints/
+*.png
