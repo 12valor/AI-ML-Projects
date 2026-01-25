@@ -25,7 +25,7 @@ A classifier trained to identify pizza and ice cream images.
 ### 📊 Model Performance
 *(Graph will appear here once training is complete)*
 
-![Pizza vs Ice Cream Accuracy](PIZZA%20VS%20ICE%20CREAM/accuracy_graph.png)
+![Pizza vs Ice Cream Accuracy](PIZZA%20VS%20ICE%20CREAM/accuracy_graph_2.png)
 
 ### File Structure
 * **Code:** `PIZZA VS ICE CREAM/model.ipynb`
