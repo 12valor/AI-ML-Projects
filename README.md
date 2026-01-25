@@ -36,4 +36,4 @@ A classifier trained to identify pizza and ice cream images.
 ## How to Run
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YourUsername/AI-ML-Projects.git](https://github.com/YourUsername/AI-ML-Projects.git)
+   git clone [https://github.com/12valor/AI-ML-Projects.git](https://github.com/12valor/AI-ML-Projects.git)
