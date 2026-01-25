@@ -22,7 +22,7 @@ The graph below shows the training accuracy over 25 epochs:
 ## Project 2: Pizza vs. Ice Cream
 A classifier trained to identify pizza and ice cream images.
 
-### 📊 Model Performance
+### Model Performance
 *(Graph will appear here once training is complete)*
 
 ![Pizza vs Ice Cream Accuracy](PIZZA%20VS%20ICE%20CREAM/accuracy_graph_2.png)
